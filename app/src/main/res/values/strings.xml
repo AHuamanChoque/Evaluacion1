@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="titulo">SALARIO DLE OBRERO</string>
+    <string name="titulo2">SALARIO DEL OBRERO</string>
+    <string name="valnumero">INGRESE LAS HORAS TRABAJADAS</string>
+    <string name="valcalcular">CALCULAR SUELDO</string>
+    <string name="titulo1">NUMEROS\n</string>
+    <string name="valnumero2">Ingresar número</string>
+    <string name="valcalcular2">CALCULAR</string>
+    <string name="titulaso">NUMEROS</string>
+    <string name="valnumeros">Ingresar los numeros</string>
+    <string name="ejercicio4">Suma de números\n</string>
+    <string name="valcalnumeros">CALCULAR</string>
+</resources>
